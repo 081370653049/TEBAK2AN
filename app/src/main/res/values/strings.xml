@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Tebak Hewan</string>
+    <string name="app_subtitle">Ayo Bermain &amp; Belajar Suara Binatang!</string>
+    <string name="stars_collected_format">%1$d Bintang</string>
+    <string name="sound_on_desc">Matikan suara</string>
+    <string name="sound_off_desc">Nyalakan suara</string>
+    <string name="back_button_desc">Kembali ke beranda</string>
+    <string name="listen_again_desc">Dengar suara lagi</string>
+    <string name="listen_button_label">Dengar Suara</string>
+    <string name="mode_section_title">Pilih Permainan Seru</string>
+    <string name="world_section_title">Pilih Dunia Hewan</string>
+    <string name="difficulty_label">Jumlah Pilihan</string>
+    <string name="difficulty_easy">Mudah (2)</string>
+    <string name="difficulty_fun">Seru (4)</string>
+
+    <string name="mode_sound_title">Tebak Suara</string>
+    <string name="mode_sound_desc">Dengar suaranya, tebak hewannya!</string>
+    <string name="mode_shadow_title">Tebak Bayangan</string>
+    <string name="mode_shadow_desc">Siapa ya di balik bayangan lucu ini?</string>
+    <string name="mode_learn_title">Kenal Hewan</string>
+    <string name="mode_learn_desc">Sentuh hewan &amp; dengar suaranya!</string>
+
+    <string name="world_all">Semua Hewan</string>
+    <string name="world_farm">Peternakan</string>
+    <string name="world_jungle">Hutan Rimba</string>
+    <string name="world_water">Dunia Air</string>
+
+    <string name="question_progress_format">Soal %1$d dari %2$d</string>
+    <string name="prompt_who_makes_sound">Hewan apa yang bersuara...</string>
+    <string name="prompt_who_is_shadow">Siapa di balik bayangan ini?</string>
+    <string name="hint_tap_speaker">Ketuk untuk dengar lagi!</string>
+    <string name="feedback_correct_title">Horeee! Benar!</string>
+    <string name="feedback_try_again_format">Itu %1$s! Yuk coba lagi ya</string>
+    <string name="next_question_button">Lanjut!</string>
+
+    <string name="victory_title">Hebat Sekali!</string>
+    <string name="victory_subtitle">Kamu pintar menebak semua hewan!</string>
+    <string name="play_again_button">Main Lagi</string>
+    <string name="go_home_button">Beranda</string>
+
+    <string name="learn_header_subtitle">Sentuh gambar hewan untuk mendengar suaranya!</string>
+    <string name="hero_banner_desc">Ilustrasi hewan-hewan lucu di padang rumput ceria</string>
+    <string name="world_farm_desc">Ilustrasi peternakan ceria</string>
+    <string name="world_jungle_desc">Ilustrasi hutan rimba ceria</string>
+    <string name="world_water_desc">Ilustrasi dunia air ceria</string>
+</resources>

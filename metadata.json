@@ -1,0 +1,6 @@
+{
+  "name": "Tebak Hewan",
+  "description": "Permainan tebak-tebakan binatang yang ceria, penuh warna, bersuara Bahasa Indonesia, dan dilengkapi animasi lucu untuk anak balita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
